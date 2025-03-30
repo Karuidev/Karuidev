@@ -23,7 +23,7 @@
 - 💡 Interessado em desenvolvimento web e automação
 - 🎯 Meta: contribuir para projetos open source
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Linguagens que Utilizo
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -41,20 +41,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vemchin&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vemchin&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-## 🏆 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/Vemchin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vemchin&repo=SEU_REPOSITORIO_1&theme=radical" />
-  </a>
-  <a href="https://github.com/Vemchin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vemchin&repo=SEU_REPOSITORIO_2&theme=radical" />
-  </a>
-</div>
 
 <!-- Substitua SEU_REPOSITORIO_1 e SEU_REPOSITORIO_2 pelos nomes dos seus repositórios que deseja destacar -->
 
