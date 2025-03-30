@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&section=header&text=Olá,%20sou%20Karui!&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=EEEEEE&section=header&text=Olá,%20sou%20Karui!&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=333333"/></a>
+
 
 <div align="center">
   <a href="https://discord.gg/TNcMhe9JXv">
@@ -16,14 +17,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=440&height=45&lines=Desenvolvedor+J%C3%BAnior;Apaixonado+por+Tecnologia;Sempre+aprendendo" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre Mim
-
-- 👨‍💻 Desenvolvedor Júnior em constante aprendizado
-- 🌱 Atualmente aprimorando minhas habilidades em JavaScript e Python
-- 💡 Interessado em desenvolvimento web e automação
-- 🎯 Meta: contribuir para projetos open source
-
-## 🛠️ Linguagens que Utilizo
+## 🛠️ 
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -37,18 +31,11 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vemchin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vemchin&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vemchin&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true&"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vemchin&layout=compact&langs_count=7&theme=graywhite&hide_border=true"/>
 </div>
 
 
-<!-- Substitua SEU_REPOSITORIO_1 e SEU_REPOSITORIO_2 pelos nomes dos seus repositórios que deseja destacar -->
-
-## 📈 Contribuições
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Vemchin&theme=redical&hide_border=true" width="100%"/>
-</div>
 
 ---
 
@@ -57,4 +44,4 @@
   <img src="https://forthebadge.com/images/badges/made-with-markdown.svg"/>
 </div>
 
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=24&section=footer"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=EEEEEE&section=footer"/>
