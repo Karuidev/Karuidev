@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&section=header&text=%20%20&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&section=header&text=Olá,%20sou%20Karui!&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF"/></a>
 
 <div align="center">
   <a href="https://discord.gg/TNcMhe9JXv">
@@ -7,7 +7,7 @@
   <a href="mailto:vemchinx1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Nobru&color=green&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Vemchin&color=green&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <br>
