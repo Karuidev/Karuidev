@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&section=header&text=,%20%20&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&section=header&text=%20%20&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF"/></a>
 
 <div align="center">
   <a href="https://discord.gg/TNcMhe9JXv">
